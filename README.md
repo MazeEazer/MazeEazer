@@ -8,8 +8,7 @@ KUBSU Stud / 20 y.o.
 
 * 🌍  I'm based in Krasnodar
 * ✉️  You can contact me at [ilya070105@gmail.com](mailto:ilya070105@gmail.com)
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-### Skills
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1920" height="1080">### Skills
 
 
 <p align="left">
