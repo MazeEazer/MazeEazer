@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ----------------
 
-KUBSU Stud / 20 y.o.
+KUBSU Stud / 21 y.o.
 
 * 🌍  I'm based in Krasnodar
 * ✉️  You can contact me at [ilya070105@gmail.com](mailto:ilya070105@gmail.com)
